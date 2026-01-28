@@ -30,4 +30,9 @@ Media links are listed in `index.html` under “Media & outreach”.
 
 
 ## Photo
-The hero portrait is at `assets/img/portrait.jpg`.
+Hero portrait files:
+- `assets/img/portrait.jpg`
+- `assets/img/portrait.webp`
+
+## Theme
+A light/dark toggle is included (button in the header). The choice is saved in localStorage.
