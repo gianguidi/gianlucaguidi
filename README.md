@@ -27,3 +27,7 @@ This is a simple static site (HTML/CSS/JS) designed to be published with **GitHu
 - ResearchGate: https://www.researchgate.net/profile/Gianluca-Guidi
 
 Media links are listed in `index.html` under “Media & outreach”.
+
+
+## Photo
+The hero portrait is at `assets/img/portrait.jpg`.
